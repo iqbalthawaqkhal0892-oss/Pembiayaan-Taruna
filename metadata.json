@@ -1,0 +1,7 @@
+{
+  "name": "Pembiayaan Taruna Bangsa",
+  "description": "Aplikasi Keuangan Sekolah Digital dan PPDB Taruna Bangsa berbasis Cloud Firestore dan Blogger XML",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
